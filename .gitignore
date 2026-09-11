@@ -1,0 +1,9 @@
+.env
+vector_db/
+.venv/
+__pycache__/
+*.pyc
+*.pkl
+*.faiss
+documents/
+.agents/
