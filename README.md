@@ -35,7 +35,7 @@ DocuMind/
 
 ### 1. Clone the repo
 
-git clone https://github.com/yourusername/DocuMind.git
+git clone https://github.com/Dev172911/DocuMind.git
 cd DocuMind
 
 
@@ -62,6 +62,6 @@ streamlit run app.py
 
 
 ## Notes
-- Your `.env` file is never pushed to GitHub
+- My `.env` file is never pushed to GitHub
 - The `vector_db/` folder is also excluded from the repo
 - Each user needs their own Groq API key
